@@ -1,7 +1,13 @@
 function vector(x,y){   
     
-    this.x = x;                                 
-    this.y = y;
+    this.x = x;                    
+
+	// if y is undefined, then we set y to x 
+    this.y = (y == undefined) ? x : y;
+	
+	if (!y){
+		this.y = 
+	}
     
 	
     this.add = function (x, y) {                
