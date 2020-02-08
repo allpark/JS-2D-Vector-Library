@@ -149,9 +149,9 @@ function vector(x,y){
     this.equals = function (x, y) {            
         var a, b;                              
         if (x instanceof vector) {           
-            return x.x==this.x && x.y==this.y;
+            return x.x== this.x && x.y== this.y;
         } else {
-            return x == this.x && y = this.y;
+            return x == this.x && y == this.y;
         }
     };
 
