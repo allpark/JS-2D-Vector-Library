@@ -1,6 +1,6 @@
 # JS 2D Vector Library
 
-This is a simple library that allows you to quickly implement vectors into your project
+This is a simple library that allows you to quickly implement vectors into your project. 
 
 ## Getting Started
 
