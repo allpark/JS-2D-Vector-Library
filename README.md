@@ -11,7 +11,6 @@ These instructions will get you a copy of the module up and running on your loca
 To install this module, drop and include the following files into your project: 
 1. vec2d.js
 
-
 ## Functions 
 ### Name: Vector
 ##### Description
